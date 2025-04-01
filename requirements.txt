@@ -1,0 +1,4 @@
+CTkMessagebox
+customtkinter
+pillow
+pyyaml
